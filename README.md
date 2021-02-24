@@ -4,8 +4,8 @@
 
 Gist about me
 
-- 🌱 Learning everyday, currently learning to master selenium  
-- 👯 I’m looking to collaborate on selenium projects
+- 🌱 Learning everyday, currently learning to master data analystics  
+- 👯 I’m looking to collaborate on data analysis projects
 - 💬 I love to push my limits and go  beyond 
 
 
